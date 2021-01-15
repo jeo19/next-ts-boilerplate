@@ -1,0 +1,8 @@
+module.exports = {
+    printWidth: 80, 
+    parser: 'typescript',
+    singleQuote: true, 
+    useTabs: false,
+    tabWidth: 2, 
+    trailingComma: 'es5' 
+  };
